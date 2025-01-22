@@ -1,7 +1,6 @@
 <h1>👋 Olá! Bem vindo ao meu perfil do GitHub</h1> 
 <h2>Meu nome é Amanda!</h2>
-<p>Profissional dedicada e entusiasta da tecnologia, sou formada em Análise e Desenvolvimento de Sistemas pela Fatec. Atualmente, estou aprimorando meus
-conhecimentos na área, cursando pós-graduação em Qualidade e Testes de Software pela instituição Vincit. Possuo conhecimentos em HTML, CSS, JavaScript, TypeScript e Angular, buscando sempre inovação e eficiência na entrega de soluções tecnológicas. Sou movida por desafios, comprometida com a qualidade e sempre pronta para aprender e evoluir.</p>
+<p>Sou formada em Análise e Desenvolvimento de Sistemas, com pós-graduação em Qualidade e Testes de Software, e atualmente estou cursando Ciências Exatas. Tenho experiência prática como Engenheira Front-End Júnior e sou empreendedora, gerenciando a loja de delivery 'A Casa do Brownie'. Sou apaixonada por tecnologia e estou constantemente em busca de novos aprendizados, buscando sempre aplicar meus conhecimentos para alcançar resultados inovadores e de qualidade.</p>
 <h3>Meu contato:</h3>
 <a href="https://www.linkedin.com/in/amandajpereira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div>
