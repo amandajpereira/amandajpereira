@@ -6,9 +6,5 @@ Trabalho com versionamento de código utilizando Git e sigo boas práticas de de
 buscando criar interfaces funcionais, organizadas e de fácil manutenção.</p>
 <h3>Meu contato:</h3>
 <a href="https://www.linkedin.com/in/amandajpereira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<div>
-<a href="https://github.com/amandajpereira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandajpereira&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=amandajpereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
